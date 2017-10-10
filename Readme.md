@@ -1,4 +1,4 @@
-#Things I learned at Bloc.IO
+# Things I learned at Bloc.IO
 1. Command Line.
 2. Frontend Foundations part 1.
 3. Frontend Foundations part 2.
